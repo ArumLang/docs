@@ -7,9 +7,10 @@ JERScript: Julian, Eclipse, Rehan (or RStar)
 :ref:`Download <obtain>` :ref:`Getting started <quickstart>`
 ======================== ===================================
 
-::
+```
    write("Hello world, and JERScript!")
    write("These are the docs for JERScript")
+```
 
 **JERScript** (/j.e.r'skript/) is a minimalist scripting language for scripters
 that is ran very fast.
