@@ -23,14 +23,14 @@ Step 1. Create a file ending in `.jer`
 First, create a file ending in `.jer`, pretty simple. I know.
 
 Linux:
-```
-touch hello.jer
-```
+::
+
+    $ touch hello.jer
 
 Windows:
-```
-echo > hello.jer
-```
+::
+
+    $ type nul > hello.jer`
 
 Good, we have a file ending in `.jer`. Cool!
 
@@ -38,7 +38,7 @@ Step 2. Edit the file using your favorite text editor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Edit a file using a favorite text editor! Whether that is `vim`
-`emacs` or `nano`_, it is a good idea to edit the file using a text editor.
+`emacs` or `nano`, it is a good idea to edit the file using a text editor.
 (We have syntax highlighting for VS Code!)
 
 Step 3. Write your program
@@ -52,13 +52,13 @@ write("Hello world!")
 Step 4. Run the program
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Assuming you have the CLI installed, you can run:
-```
-jerscript --file=hello.jer
-```
+Assuming you have the CLI installed, (if you dont, refer to :ref:`Download <obtain>`)you can run:
+::
+    
+    npx jerscript --file=hello.jer
 
 It will output
-```
-Hello world!
-```
+::
+
+    Hello world!
 to the console! Good job! You've made your first program!

@@ -10,7 +10,7 @@ Documentation Table of Contents
 
     Home <index>
     Table of Contents <self>
-    Downloads and Links <downloads_links>
+    Downloads and Links <obtain>
     Tutorials <tutorials>
     General <general>
     Language <language>
